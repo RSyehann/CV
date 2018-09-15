@@ -68,7 +68,7 @@
 * Budgety GitPage 
 * Forksiky GitPage 連結
 * JumpStart https://rsyehann.github.io/JumpStart/
-* Pig Game GitPage 連結
+* Pig Game https://rsyehann.github.io/Pig-Game/
 * Trackster https://rsyehann.github.io/Trackster/
 
 
