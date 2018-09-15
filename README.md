@@ -61,7 +61,7 @@
 
 ## 作品集 Profile
 
-* Omnifood 形象網頁 GitPage 連結
+* Omnifood 形象網頁 https://rsyehann.github.io/Omnifood-template/
 * 完成 JavaScript 30 所有挑戰
 * Match Game https://rsyehann.github.io/MatchGame/
 * Color Game https://rsyehann.github.io/ColorGame/
