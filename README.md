@@ -1,7 +1,7 @@
 # 沈柏均
 
 ### 自我介紹 Introduction
---
+
 - 我的英文名字是 Xavier，畢業於輔仁大學餐旅管理學系，退伍前於餐旅相關產業任職逾3年，喜愛並擅長與人互動。
 - 在學期間曾擔任過系上宿營總召，並曾擔任過系籃隊長，率領球隊拿下過校際盃冠軍。
 - 自2017年11月退伍後開始自學網頁前端技術，目前已自學近九個月的時間。
@@ -11,19 +11,19 @@
 - FreeCodeCamp創辦人 Quincy Larson 先生同意且已授權該品牌成立繁體中文化網站。未來計畫將繁中化網站搭建起來，並於各大院校推廣程式教育。
 
 ### 聯絡方式 Contact Me
---
+
 * Facebook : https://www.facebook.com/ryan.shen.96
 * Github : https://github.com/RSyehann
 * Medium : https://medium.com/@RSyehann
 
 現居: 台中市
 
-應徵職位: 網頁前端工程師
-聯絡電話: 0928408508 
-聯絡信箱: ryanshen0922@gmail.com
+- 應徵職位: 網頁前端工程師
+- 聯絡電話: 0928408508 
+- 聯絡信箱: ryanshen0922@gmail.com
 
 ## 技能 Skill
---
+
 
 ### 前端切版
 
