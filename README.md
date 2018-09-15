@@ -1,6 +1,6 @@
 # 沈柏均 Xavier
 
-### Background Information
+### 背景資訊 Background Information
 
 - 台中科技大學 會計資訊系 副學士學位
 - 五專時期擔任過系籃隊長，率領球隊拿下過校際盃冠軍
