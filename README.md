@@ -20,9 +20,10 @@
 * Github : https://github.com/RSyehann
 * Medium : https://medium.com/@RSyehann
 
-- 現居: 台中市
+- 現居: 台中市 
+- Living in Taichung
 
-- 應徵職位: 網頁前端工程師
+- 應徵職位: 網頁前端工程師 Front End Engineer
 - 聯絡電話: 0928408508 
 - 聯絡信箱: ryanshen0922@gmail.com
 
@@ -64,8 +65,6 @@
 * JumpStart GitPage 連結
 * Pig Game GitPage 連結
 * Trackster GitPage 連結
-
-### 其他項目 Others
 
 
 ---
