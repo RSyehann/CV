@@ -1,17 +1,17 @@
 # 沈柏均
 
 ### 自我介紹 Introduction
----
-我的英文名字是 Xavier，畢業於輔仁大學餐旅管理學系，退伍前於餐旅相關產業任職逾3年，喜愛並擅長與人互動。
-在學期間曾擔任過系上宿營總召，並曾擔任過系籃隊長，率領球隊拿下過校際盃冠軍。
-自2017年11月退伍後開始自學網頁前端技術，目前已自學近九個月的時間。
-在自學期間，主要的學習資源為 Codecademy, Udemy 等線上教學平台的課程影片，也曾使用過 FreeCodeCamp 外語教學資源自學。
-自今年三月開始進駐 Monospace 與同期夥伴成立讀書會一起研究前端技術約三個月。
-同時間自四月起與 創科資訊 合辦前端網頁技術讀書會三個月，並創立「 FreeCodeCamp繁中化計畫 」Facebook社團，目前社團現有人數為 262 人。
-FreeCodeCamp創辦人 Quincy Larson 先生同意且已授權該品牌成立繁體中文化網站。未來計畫將繁中化網站搭建起來，並於各大院校推廣程式教育。
+--
+- 我的英文名字是 Xavier，畢業於輔仁大學餐旅管理學系，退伍前於餐旅相關產業任職逾3年，喜愛並擅長與人互動。
+- 在學期間曾擔任過系上宿營總召，並曾擔任過系籃隊長，率領球隊拿下過校際盃冠軍。
+- 自2017年11月退伍後開始自學網頁前端技術，目前已自學近九個月的時間。
+- 在自學期間，主要的學習資源為 Codecademy, Udemy 等線上教學平台的課程影片，也曾使用過 FreeCodeCamp 外語教學資源自學。
+- 自今年三月開始進駐 Monospace 與同期夥伴成立讀書會一起研究前端技術約三個月。
+- 同時間自四月起與 創科資訊 合辦前端網頁技術讀書會三個月，並創立「 FreeCodeCamp繁中化計畫 」Facebook社團，目前社團現有人數為 262 人。
+- FreeCodeCamp創辦人 Quincy Larson 先生同意且已授權該品牌成立繁體中文化網站。未來計畫將繁中化網站搭建起來，並於各大院校推廣程式教育。
 
 ### 聯絡方式 Contact Me
----
+--
 * Facebook : https://www.facebook.com/ryan.shen.96
 * Github : https://github.com/RSyehann
 * Medium : https://medium.com/@RSyehann
@@ -23,7 +23,7 @@ FreeCodeCamp創辦人 Quincy Larson 先生同意且已授權該品牌成立繁�
 聯絡信箱: ryanshen0922@gmail.com
 
 ## 技能 Skill
----
+--
 
 ### 前端切版
 
@@ -66,7 +66,7 @@ FreeCodeCamp創辦人 Quincy Larson 先生同意且已授權該品牌成立繁�
 
 * 接觸過 Docker
 
----
+--
 
 ## 短期學習目標
 
