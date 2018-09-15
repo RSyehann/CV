@@ -2,8 +2,8 @@
 
 ### 學歷 Education
 
-- 台中科技大學 會計資訊系 副學士學位
-- 輔仁大學 餐旅管理學系 學士學位
+- 台中科技大學 會計資訊系 副學士學位 2009 - 2013 
+- 輔仁大學 餐旅管理學系 學士學位 2013 - 2016 
 
 ### 經歷 Personal Experience
 
@@ -12,11 +12,11 @@
 - 大學時期曾擔任過系上宿營總召，利用三個月的準備時間帶領 72 位同學完成 180 人的四天三夜的宿營活動
 - 擔任過  International Children Games 國際志工一職，負責住宿相關職務
 - 並於大四暑假期間與 20 人一起挑戰為期 11 天的單車環島，順利環台一圈
-- 自 2017 年 11 月退伍後開始自學網頁前端技術，目前已自學近 9 個月的時間
+- 自 2017 年 11 月退伍後開始自學網頁前端技術，目前已自學約 9 個月
 - 在自學期間，主要的學習資源為 Codecademy, Udemy 等線上教學平台的課程影片，也曾使用過 FreeCodeCamp 外語教學資源
 - 自 2018年 3月開始進駐 Monospace 與同期夥伴成立讀書會一起研究前端技術
-- 同時間自 4 月起與 創科資訊 Trunk Studio 合辦前端網頁技術讀書會三個月，並創立「 FreeCodeCamp繁中化計畫 」Facebook社團，目前社團現有人數為 262 人
-- FreeCodeCamp創辦人 Quincy Larson 先生同意且已授權該品牌成立繁體中文化網站。未來計畫將繁中化網站搭建起來，並於各大院校推廣程式教育
+- 同時間自 4 月起與 創科資訊 Trunk Studio 合辦前端網頁技術讀書會三個月，並創立「 freeCodeCamp繁中化計畫 」Facebook 社團，目前社團現有人數為 262 人
+- freeCodeCamp 創辦人 Quincy Larson 先生同意且已授權該品牌成立繁體中文化網站。未來計畫將繁中化網站搭建起來，並於各大院校推廣程式教育
 
 ### 聯絡方式 Contact Me
 
@@ -63,13 +63,13 @@
 
 * Omnifood 形象網頁 GitPage 連結
 * 完成 JavaScript 30 所有挑戰
-* Match Game GitPage 連結
-* Color Game GitPage 連結
-* Budgety GitPage 連結
+* Match Game https://rsyehann.github.io/MatchGame/
+* Color Game https://rsyehann.github.io/ColorGame/
+* Budgety GitPage 
 * Forksiky GitPage 連結
-* JumpStart GitPage 連結
+* JumpStart https://rsyehann.github.io/JumpStart/
 * Pig Game GitPage 連結
-* Trackster GitPage 連結
+* Trackster https://rsyehann.github.io/Trackster/
 
 
 ---
