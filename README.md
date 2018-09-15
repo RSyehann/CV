@@ -69,11 +69,11 @@
 
 ---
 ## 短期學習目標
-- 程式方面
+### 程式方面
 * 學習 React Native 並參與相關專案開發
 * 熟悉 Git Flow 開發流程
 * 學習 Electron
 
-- 語言方面
+### 語言方面
 * 提升 IELTS 分數 從 Overall 6.0 到 Overall 7.5
 * 提升自身德文能力
